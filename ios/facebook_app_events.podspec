@@ -22,7 +22,7 @@ Flutter plugin for Facebook Analytics and App Events
 
   s.dependency 'FBSDKLoginKit', '~> 17.0.0'
   s.dependency 'FBSDKShareKit', '~> 17.0.0'
-  s.dependency 'FBSDKGamingServiceKit', '~> 17.0.0'
+  s.dependency 'FBSDKGamingServicesKit', '~> 17.0.0'
   
   # See docs on FBAudienceNetwork
   # https://developers.facebook.com/docs/audience-network/setting-up/platform-setup/ios/add-sdk/
