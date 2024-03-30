@@ -20,7 +20,7 @@ Flutter plugin for Facebook Analytics and App Events
   # https://github.com/oddbit/flutter_facebook_app_events#dependencies-on-facebook-sdk
   s.dependency 'FBSDKCoreKit', '~> 17.0.0'
 
-  s.dependency 'FacebookSDK', '~> 11.2.1'
+  # s.dependency 'FacebookSDK', '~> 11.2.1'
 
   s.dependency 'FBSDKLoginKit', '~> 17.0.0'
   s.dependency 'FBSDKShareKit', '~> 17.0.0'
